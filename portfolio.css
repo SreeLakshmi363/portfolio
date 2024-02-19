@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+header{
+    text-align: center;
+    background-color: rgb(27, 13, 13);
+    padding: 20px;
+}
+header h2{
+    color: rgb(238, 245, 251);
+}
+nav,ul,li{
+    display: inline;
+    padding: 20px;
+}
+nav,ul,a{
+    text-decoration: none;
+    color: orange;
+}
+#Home{
+    word-spacing: 10px;
+}
+#Home img{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+#Portfolio{
+    background-color: aquamarine;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    padding: 20px;
+}
+footer p{
+    color: aliceblue;
+}
+#Bio pre{
+    line-height: 20px;
+    word-spacing: 5px;
+}
